@@ -1,0 +1,18 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    json (2.6.2)
+    redis (4.2.5)
+    rejson-rb (1.0.1)
+      json (~> 2.0)
+      redis (~> 4.2.1)
+
+PLATFORMS
+  x86_64-linux
+
+DEPENDENCIES
+  redis (~> 4.2.1)
+  rejson-rb
+
+BUNDLED WITH
+   2.3.22
